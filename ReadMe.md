@@ -33,11 +33,11 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 **Fecha** : 2024
 
 **Medios** (donde se tiene presencia): 
-
-
 *  :octocat: (github url) 
 * Twitter 
-* ... 
+* Facebook
+* TikTok
+* WhatsApp
 
 ----
 
