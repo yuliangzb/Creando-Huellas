@@ -10,21 +10,30 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Creando huellas
 
-**Autor(es)** ______________
+**Autor(es)** 
+Alejandro Steven Rodríguez
+Juan Jose Tisnado
+Hexon Lizcano
+Yulian García Zayas Bazán
 
-**Resumen** : _________
+**Resumen** : 
+Nuestra comunidad se compromete con la integración de los migrantes en sus nuevos países, reconociendo la importancia de la migración cultural en la construcción de sociedades diversas y prósperas. Entendemos que la migración cultural no se trata solo de trasladarse físicamente a un nuevo lugar, sino también de adaptarse a nuevas formas de vida, valores y tradiciones.
+Nos esforzamos por ofrecer una variedad de ayudas sociales diseñadas para apoyar a los migrantes en todas las facetas de su vida en el nuevo país. Esto incluye servicios de asesoramiento y orientación, asistencia para encontrar vivienda y empleo, clases de idiomas, programas de formación y educación, apoyo psicológico y social, y acceso a recursos comunitarios. Todo ello, mediante el intercambio de las experiencias de los miembros de la comunidad.
+Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los migrantes para que se conviertan en miembros activos y contribuyentes de la sociedad. Esto implica facilitar oportunidades para que participen en la vida comunitaria, promover la comprensión intercultural y fomentar el respeto mutuo entre todas las personas, independientemente de su origen cultural.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Unidad en la diversidad
 
-**Hashtag**  ___
+**Hashtag** 
+#CreaandoHuellas
+#MigracionIntercultural
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 202X
+**Fecha** : 2024
 
 **Medios** (donde se tiene presencia): 
 
@@ -39,11 +48,12 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 
 ### Misión
+Facilitar la transición y la integración de los migrantes en sus nuevos países, ofreciendo apoyo integral y oportunidades para su desarrollo personal y profesional. Nos comprometemos a proporcionar servicios de alta calidad que promuevan la inclusión social, la igualdad de oportunidades y el respeto a la diversidad cultural, trabajando en colaboración con las comunidades locales y las instituciones pertinentes.
 
 
 
 #### Vision
-
+Nos visualizamos como líderes en el campo de la acogida y la integración de migrantes, reconocidos por nuestro compromiso con la excelencia, la innovación y el impacto positivo en la vida de las personas. Nos esforzamos por construir sociedades inclusivas y cohesionadas, donde todos los individuos, independientemente de su origen cultural, puedan prosperar y contribuir plenamente al desarrollo de sus comunidades. Nuestra visión es un mundo donde la migración cultural sea valorada y celebrada como una fuente de enriquecimiento y crecimiento para todos.
 
 
  
