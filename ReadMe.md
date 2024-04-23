@@ -25,7 +25,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 **Slogan** (frase motivadora/inspiradora): Unidad en la diversidad
 
 **Hashtag** 
-#CreaandoHuellas
+#CreandoHuellas
 #MigracionIntercultural
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
