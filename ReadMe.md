@@ -35,6 +35,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 * Notion
 * X
 * Facebook / Messenger
+* Canal de Telegram
 
 ----
 
