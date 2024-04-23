@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## CREANDO HUELLAS 
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
