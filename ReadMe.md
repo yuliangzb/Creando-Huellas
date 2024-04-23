@@ -13,10 +13,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Titulo** : Creando huellas
 
 **Autor(es)** 
-Alejandro Steven Rodríguez
-Juan Jose Tisnado
-Hexon Lizcano
-Yulian García Zayas Bazán
+Alejandro Steven Rodríguez; Juan Jose Tisnado; Hexon Lizcano y Yulian García Zayas Bazán
 
 **Resumen** : 
 Nuestra comunidad se compromete con la integración de los migrantes en sus nuevos países, reconociendo la importancia de la migración cultural en la construcción de sociedades diversas y prósperas. Entendemos que la migración cultural no se trata solo de trasladarse físicamente a un nuevo lugar, sino también de adaptarse a nuevas formas de vida, valores y tradiciones.
