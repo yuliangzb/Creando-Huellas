@@ -34,10 +34,9 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 **Medios** (donde se tiene presencia): 
 *  :octocat: (github url)
-*  Sitio Web
-* Twitter 
-* Facebook
-* TikTok
+* Notion
+* X
+* Facebook / Messenger
 
 ----
 
