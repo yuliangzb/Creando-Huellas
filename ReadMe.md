@@ -18,7 +18,7 @@ Nuestra comunidad se compromete con la integración de los migrantes en sus nuev
 Nos esforzamos por ofrecer una variedad de ayudas sociales diseñadas para apoyar a los migrantes en todas las facetas de su vida en el nuevo país. Esto incluye servicios de asesoramiento y orientación, asistencia para encontrar vivienda y empleo, clases de idiomas, programas de formación y educación, apoyo psicológico y social, y acceso a recursos comunitarios. Todo ello, mediante el intercambio de las experiencias de los miembros de la comunidad.
 Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los migrantes para que se conviertan en miembros activos y contribuyentes de la sociedad. Esto implica facilitar oportunidades para que participen en la vida comunitaria, promover la comprensión intercultural y fomentar el respeto mutuo entre todas las personas, independientemente de su origen cultural.
 
-**logotipo** :  ________
+**logotipo** :  
 ![Logo](Logo.jpg)
 **Slogan** (frase motivadora/inspiradora): Unidad en la diversidad
 
