@@ -1,7 +1,5 @@
 ## CREANDO HUELLAS 
 
-(Plantilla para la creación de un proyecto en ideapolis)
-
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
 
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
