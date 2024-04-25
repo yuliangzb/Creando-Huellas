@@ -31,7 +31,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 **Fecha** : 2024
 
-**Medios** (donde se tiene presencia): 
+**Medios**: 
 *  :octocat: (github url)
 * Notion
 * X
@@ -48,14 +48,8 @@ Facilitar la transición y la integración de los migrantes en sus nuevos paíse
 
 
 
-#### Vision
+#### Visión
 Nos visualizamos como líderes en el campo de la acogida y la integración de migrantes, reconocidos por nuestro compromiso con la excelencia, la innovación y el impacto positivo en la vida de las personas. Nos esforzamos por construir sociedades inclusivas y cohesionadas, donde todos los individuos, independientemente de su origen cultural, puedan prosperar y contribuir plenamente al desarrollo de sus comunidades. Nuestra visión es un mundo donde la migración cultural sea valorada y celebrada como una fuente de enriquecimiento y crecimiento para todos.
-
-
- 
-
-
-
 
 ----- 
 
