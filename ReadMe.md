@@ -20,10 +20,11 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 **logotipo** :  
 ![Logo](Logotipo.jpg)
-**Slogan** (frase motivadora/inspiradora): Unidad en la diversidad
+
+**Slogan**: Siéntete como en casa
 
 **Hashtag** 
-#CreandoHuellas
+#SienteteComoEnCasa
 #MigracionIntercultural
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
