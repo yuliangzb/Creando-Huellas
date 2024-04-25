@@ -19,7 +19,7 @@ Nos esforzamos por ofrecer una variedad de ayudas sociales diseñadas para apoya
 Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los migrantes para que se conviertan en miembros activos y contribuyentes de la sociedad. Esto implica facilitar oportunidades para que participen en la vida comunitaria, promover la comprensión intercultural y fomentar el respeto mutuo entre todas las personas, independientemente de su origen cultural.
 
 **logotipo** :  
-![Logo](Logo.jpg)
+![Logo](Logotipo.jpg)
 **Slogan** (frase motivadora/inspiradora): Unidad en la diversidad
 
 **Hashtag** 
