@@ -2,11 +2,11 @@
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa
 
-[Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
+[Máster en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
 
 ETS Ingeniería Informatica y de Telecomunicación
 
-Univesidad de Granada  
+Universidad de Granada  
 
 ----
 
