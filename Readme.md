@@ -32,7 +32,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 **Fecha** : Abril de 2024
 
 **Medios**: 
-*  :octocat: ([github url](https://github.com/yuliangzb/Creando-Huellas/edit/main/Readme.md))
+*  :octocat: ([Github URL](https://github.com/yuliangzb/Creando-Huellas/edit/main/Readme.md))
 * Notion
 * X
 * Facebook / Messenger
