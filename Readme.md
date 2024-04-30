@@ -93,7 +93,7 @@ Personas que decidan migrar a España
 
 ### Etapa 2: Prototipar / productos 
 
-https://www.notion.so/Creando-Huellas-10538113b9204652bc42d3d452528865#a343ebb4dcef485ba1c65453d9e96711
+(https://tan-bay-533.notion.site/Creando-Huellas-10538113b9204652bc42d3d452528865?pvs=4)
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
