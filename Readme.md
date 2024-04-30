@@ -80,13 +80,7 @@ Activiades realizadas mediante Toolkit design thinking
 
 **Investigación de campo**   
 **Herramientas**
-Ficha Grupo
-Mapa Empatía
-Experience Map
-Seis sombreros para pensar
-Scope Canvas
-DAFO
-Desk research
+Ficha Grupo, Mapa Empatía, Experience Map, Seis sombreros para pensar, Scope Canvas, DAFO, Desk research
 
 #### Necesidad/oportunidad
 
