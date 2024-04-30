@@ -43,7 +43,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 ### ¿Quiénes somos?
 
-### Misión
+#### Misión
 Facilitar la transición y la integración de los migrantes en sus nuevos países, ofreciendo apoyo integral y oportunidades para su desarrollo personal y profesional. Nos comprometemos a proporcionar servicios de alta calidad que promuevan la inclusión social, la igualdad de oportunidades y el respeto a la diversidad cultural, trabajando en colaboración con las comunidades locales y las instituciones pertinentes.
 
 #### Visión
