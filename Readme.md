@@ -10,7 +10,7 @@ Universidad de Granada
 
 ----
 
-**Titulo** : Creción de la comunidad: **Creando huellas**
+**Titulo** : Creación de la comunidad: **Creando huellas**
 
 **Autor(es)** 
 Alejandro Steven Rodríguez; Juan Jose Tisnado; Hexon Lizcano y Yulian García Zayas Bazán
