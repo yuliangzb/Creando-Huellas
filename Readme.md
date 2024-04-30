@@ -1,14 +1,13 @@
 ## CREANDO HUELLAS 
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
-
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
-
-ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
+ETS Ingeniería Informatica y de Telecomunicación
+Univesidad de Granada  
 
 ----
 
-**Titulo** : Creando huellas
+**Titulo** : Creción de comunidad **Creando huellas**
 
 **Autor(es)** 
 Alejandro Steven Rodríguez; Juan Jose Tisnado; Hexon Lizcano y Yulian García Zayas Bazán
@@ -30,7 +29,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 30 de abril de 2024
+**Fecha** : Abril de 2024
 
 **Medios**: 
 *  :octocat: (github url)
@@ -61,11 +60,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **¿Como surge el proyecto?**
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+**Investigación de campo**   
+Desk research propuestas inspiradoras para el proyecto
 
 
 #### Necesidad/oportunidad
