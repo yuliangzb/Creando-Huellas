@@ -51,74 +51,64 @@ Nos visualizamos como líderes en el campo de la acogida y la integración de mi
 ----- 
 
 ### Metodología
-
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
-### Etapa 1: Ideación de proyecto 
+Definición del usuario: Se definieron quiénes serían los usuarios, identificando sus características, necesidades, intereses, motivaciones y comportamientos.
 
+Investigación de mercado: Se identificaron las necesidades y expectativas de los usuarios y la competencia existente. Así como las oportunidades y amenazas. Fue de gran significación, el análisis de los comentarios de los usuarios en otras plataformas existentes.
+
+Definición de objetivos: Se establecieron objetivos claros y específicos para el proyecto. Siendo alcanzables, medibles y relevantes. Todos ellos relacionados con las necesidades de los usuarios.
+
+Definición de funcionalidades: Se definieron las funcionalidades de la plataforma, teniendo en cuenta las necesidades y expectativas de los usuarios y asegurando que las funcionalidades fueran intuitivas y fáciles de usar.
+
+Diseño de la experiencia de usuario (UX): El diseño de la experiencia de usuario es clave para el éxito de la plataforma. Se establecieron los flujos de usuario, la navegación, la arquitectura de la información y el diseño visual. Se realizaron pruebas de usabilidad para validar el diseño y asegurarse de que cumple con las necesidades de los usuarios.
+
+Desarrollo: En base al diseño aprobado y teniendo en cuenta las funcionalidades definidas.
+
+Pruebas y ajustes: Se realizaron pruebas con los compañeros de aula y otros colaboradores, para detectar posibles errores y realizar ajustes, asegurando que la plataforma funciona correctamente en diferentes dispositivos (accesibilidad y usabilidad).
+
+Lanzamiento: Una vez que la plataforma ha sido probada y ajustada, lanzarla en el mercado. Es importante planificar una estrategia de lanzamiento que incluya la promoción y la generación de expectativas, asi como el marketing necesario para acercarla a los usuarios.
+
+Monitoreo y mejora continua: Monitorear la plataforma después del lanzamiento para detectar posibles no conformidades. La retroalimentación de los usuarios es clave para la mejora continua.
+
+### Etapa 1: Ideación de proyecto 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **¿Como surge el proyecto?**
+Activiades realizadas mediante Toolkit design thinking
 
 **Investigación de campo**   
-Desk research propuestas inspiradoras para el proyecto
-
+**Herramientas**
+Ficha Grupo
+Mapa Empatía
+Experience Map
+Seis sombreros para pensar
+Scope Canvas
+DAFO
+Desk research
 
 #### Necesidad/oportunidad
 
 #### Motivación de la propuesta
 
-¿ por qué consideras interesante ? 
+Se le ofrecen oportunidades y buenas prácticas a los usuarios para su integración social, calidad de vida y enriquecimiento cultutal.
 
 #### Personas/Usuarios
-(...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
-
+Personas que decidan migrar a España
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
-
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
-* ...
+https://www.notion.so/Creando-Huellas-10538113b9204652bc42d3d452528865#a343ebb4dcef485ba1c65453d9e96711
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-#### Test con usuarios (...) 
-
-
-
-#### Preguntas frecuentes
-
-
+#### Test de usuario
+Para descubrir, validar o refutar cierta información sobre la plataforma, mediante la interacción activa con el usuario.
 
 ### Conclusiones y trabajo futuro
-
-
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
-
-(...)
-
-
-
-
-
+* Grado de consecución del proyecto: El proyecto se encuentra en la fase de prototipo.
+* Problemas identificados: La plataforma Notion nos brinda funcionalidades limitadas, como por ejemplo, no permite definir los roles de los usuarios, para lo cual debe pagarse una licencia
+* Se debe realizar un estrategia para identificar posible interés en el proyecto que, podrían  colaborar / involucrarse en el proyecto, entre otras
 
 ----
 
@@ -128,12 +118,7 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* [Notion:] (https://www.notion.so)
 
 
 
