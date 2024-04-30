@@ -36,6 +36,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 **Medios**: 
 *  :octocat: ([Github URL](https://github.com/yuliangzb/Creando-Huellas/edit/main/Readme.md))
+* Milanote: (https://app.milanote.com/1RXsmc1HA0O89Q/creando-huella?p=bNmfWuSoCW9)
 * Notion
 * RRSS
 
