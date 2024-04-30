@@ -37,9 +37,7 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 **Medios**: 
 *  :octocat: ([Github URL](https://github.com/yuliangzb/Creando-Huellas/edit/main/Readme.md))
 * Notion
-* X
-* Facebook / Messenger
-* Canal de Telegram
+* RRSS
 
 ----
 
