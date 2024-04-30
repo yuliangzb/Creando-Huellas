@@ -24,12 +24,13 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 **Slogan**: Siéntete como en casa
 
 **Hashtag** 
+#CreandoHuellas
 #SienteteComoEnCasa
 #MigracionIntercultural
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2024
+**Fecha** : 30 de abril de 2024
 
 **Medios**: 
 *  :octocat: (github url)
@@ -42,11 +43,8 @@ Así, no solo proporcionamos ayuda a corto plazo, sino también empoderar a los 
 
 ### ¿Quiénes somos?
 
-
 ### Misión
 Facilitar la transición y la integración de los migrantes en sus nuevos países, ofreciendo apoyo integral y oportunidades para su desarrollo personal y profesional. Nos comprometemos a proporcionar servicios de alta calidad que promuevan la inclusión social, la igualdad de oportunidades y el respeto a la diversidad cultural, trabajando en colaboración con las comunidades locales y las instituciones pertinentes.
-
-
 
 #### Visión
 Nos visualizamos como líderes en el campo de la acogida y la integración de migrantes, reconocidos por nuestro compromiso con la excelencia, la innovación y el impacto positivo en la vida de las personas. Nos esforzamos por construir sociedades inclusivas y cohesionadas, donde todos los individuos, independientemente de su origen cultural, puedan prosperar y contribuir plenamente al desarrollo de sus comunidades. Nuestra visión es un mundo donde la migración cultural sea valorada y celebrada como una fuente de enriquecimiento y crecimiento para todos.
