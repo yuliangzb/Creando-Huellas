@@ -79,7 +79,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 Activiades realizadas mediante Toolkit design thinking
 
 **Investigación de campo**   
-**Herramientas**
+**Herramientas:**
 Ficha Grupo, Mapa Empatía, Experience Map, Seis sombreros para pensar, Scope Canvas, DAFO, Desk research
 
 #### Necesidad/oportunidad
